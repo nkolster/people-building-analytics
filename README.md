@@ -9,4 +9,6 @@ The script checks if two userId's have met in the building.
 ```
 Rscript analyzeMeetings.R uid1 uid2
 ```
-Or from RStudio, more documentation in the pdf file.
+
+Or from RStudio, more documentation and analysis in the pdf file or here: https://docs.google.com/document/d/18J6zokcXgkY2mILRHQ3gpRO8dfqgmhW3zIXklQe7o7g/edit?usp=sharing
+
